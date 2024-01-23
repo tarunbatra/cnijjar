@@ -5,74 +5,41 @@ homepage:
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Chandni."
+  title: "Hello, I'm Chandni."
   subtitle: "Family Physician"
-  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  description: "I am a family physician practicing in Maple Ridge, BC and I am accepting patients. I also split my time working at Port Moody UPCC."
   image:
     alt: "Showcase keyboard and mouse image"
     x: "img/showcase/showcase.png"
-    _2x: "img/showcase/showcase@2x.png"
+    _2x: "img/showcase/showcase.png"
   imageMobile:
     alt: "Showcase keyboard and mouse image"
-    x: "img/showcase/showcase-mobile.jpg"
+    x: "img/showcase/showcase-mobile.png"
 
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "https://radity.com/en/contact/"
+    URL: "https://ca.linkedin.com/in/chandni-nijjar/"
 
   socialLinks:
-    - icon: "linkedin"
-      URL: "https://www.linkedin.com/company/radity/"
-
-    - icon: "github"
-      URL: "https://github.com/radity"
-
-    - icon: "twitter"
-      URL: "https://twitter.com/radity"
-
-    - icon: "dribbble"
-      URL: "https://dribbble.com/radity"
-
-    - icon: "behance"
-      URL: "https://www.behance.net/radity-digital"
-
-    - icon: "youtube"
-      URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
-
-    - icon: "instagram"
-      URL: "https://www.instagram.com/teamradity/"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com/raditycom/"
-
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
 
 # about
 about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
+    I am actively accepting patients at Midtworn Maple Ridge Clinic, Maple Ridge.
+    Do contact the clinic if you are in search for a family doctor in the area.
     </p>
     <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
     </p>'
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com/company/radity/"
+    URL: "https://ca.linkedin.com/in/chandni-nijjar"
   image:
-    x: "img/who-am-i/user-picture.png"
-    _2x: "img/who-am-i/user-picture@2x.png"
+    x: "img/who-am-i/me.png"
+    _2x: "img/who-am-i/me.png"
 
 # education
 education:
@@ -81,9 +48,9 @@ education:
   items:
     - university: "University of British Columbia"
       year: "2021-2023"
-      degree: "Residency"
+      degree: "MD, CCFP"
 
-    - university: "Kastoorba Medical College, Manipal"
+    - university: "Kasturba Medical College, Manipal"
       year: "2016-2020"
       degree: "MBBS"
 
@@ -91,7 +58,7 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  description: "I have experience of working as a medical student in India, and later as a resident in Vancouver Fraser area serving diverse population. Now I serve the communities of Maple Ridge and Port Moody."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -102,17 +69,17 @@ experience:
     URL: "#"
 
   items:
-    - title: "Sr. Front-End Developer"
-      company: "Radity"
-      duration: "Feb 2011 - Sep 2019"
+    - title: "Family physician"
+      company: "Midtown Medical Clinic"
+      duration: "Sep 2023 - Present"
 
-    - title: "Sr. Front-End Developer"
-      company: "Textic"
-      duration: "Apr 2010 - Jan 2011"
+    - title: "Urgent care physician"
+      company: "Port Moody Urgent Care Center"
+      duration: "July 2023 - Present"
 
-    - title: "Jr. Front-End Developer"
-      company: "Cyberse"
-      duration: "Jun 2009 - Mar 2010"
+    - title: "Family medicine Resident"
+      company: "UBC"
+      duration: "Jul 2021 - Jun 2023"
 
 # Client & Work
 client_and_work:
@@ -160,13 +127,13 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+41 (44) 505 10 99"
+    number: "+(604) 476-0317"
   email:
     title: "Email"
     email: '<a href="mailto:hi@dr.cnijjar.ca">hi@dr.cnijjar.ca</a>'
   address:
     title: "Address"
-    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+    address: "Midtown Medical Clinic<br />22338 Selkirk Ave, Maple Ridge, BC V2X 2X5"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"

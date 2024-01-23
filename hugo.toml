@@ -53,12 +53,8 @@ theme = "raditian"
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
   [params.logo]
-    text1 = "John"
-    text2 = "Reb"
+    text1 = "Doctor 🩺"
+    text2 = "Nijjar"
 
   [params.footer]
       copyright = "© Dr. C. Nijjar Inc.. All rights reserved."
-      [params.footer.radity_logo]
-        x = "img/general/design-and-code-radity.png"
-        _2x = "img/general/design-and-code-radity@2x.png"
-        alt = "Design & Code - Radity"
